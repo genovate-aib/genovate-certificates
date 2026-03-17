@@ -105,6 +105,15 @@
             margin: 0 auto 15px;
         }
         @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+        .error-box {
+            background: #fff3cd;
+            border: 1px solid #ffc107;
+            color: #856404;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            font-size: 14px;
+        }
     </style>
 </head>
 <body>
@@ -128,8 +137,23 @@
     </div>
 
     <script>
-        // Configuration
-        const CERTIFICATES_URL = 'certificates.json';
+        // Configuration - AUTO-DETECTS the correct path for GitHub Pages
+        const getBaseUrl = () => {
+            // Get the current URL path
+            const path = window.location.pathname;
+            // If we're on GitHub Pages with a repo name (e.g., /repo-name/verify.html)
+            // Extract the base path (everything before the last slash)
+            const basePath = path.substring(0, path.lastIndexOf('/') + 1);
+            return basePath;
+        };
+        
+        // Try multiple possible locations for the JSON file
+        const CERTIFICATES_URLS = [
+            'certificates.json',                                    // Same directory
+            './certificates.json',                                  // Explicit relative
+            getBaseUrl() + 'certificates.json',                    // Auto-detected base path
+            window.location.origin + getBaseUrl() + 'certificates.json'  // Absolute URL
+        ];
         
         // Get certificate ID from URL
         const urlParams = new URLSearchParams(window.location.search);
@@ -143,27 +167,53 @@
                 return;
             }
             
-            try {
-                // Fetch certificates database
-                const response = await fetch(CERTIFICATES_URL);
-                if (!response.ok) throw new Error('Database not found');
-                
-                const data = await response.json();
-                const certificates = data.certificates || data; // Handle both formats
-                
-                // Find certificate
-                const cert = certificates.find(c => c.id === certId.toUpperCase());
-                
-                if (cert) {
-                    showValid(contentDiv, cert);
-                } else {
-                    showInvalid(contentDiv, 'Certificate ID not found in our database');
+            let lastError = null;
+            
+            // Try each possible URL until one works
+            for (const url of CERTIFICATES_URLS) {
+                try {
+                    console.log('Trying to fetch from:', url);
+                    const response = await fetch(url, {
+                        method: 'GET',
+                        headers: {
+                            'Accept': 'application/json',
+                        },
+                        cache: 'no-cache'
+                    });
+                    
+                    if (!response.ok) {
+                        throw new Error(`HTTP ${response.status}: ${response.statusText}`);
+                    }
+                    
+                    const data = await response.json();
+                    console.log('Successfully loaded data:', data);
+                    
+                    // Handle both formats: {certificates: [...]} or direct array
+                    const certificates = data.certificates || data;
+                    
+                    if (!Array.isArray(certificates)) {
+                        throw new Error('Invalid data format: certificates array not found');
+                    }
+                    
+                    // Find certificate
+                    const cert = certificates.find(c => c.id === certId.toUpperCase());
+                    
+                    if (cert) {
+                        showValid(contentDiv, cert);
+                    } else {
+                        showInvalid(contentDiv, 'Certificate ID not found in our database');
+                    }
+                    return; // Success - exit the function
+                    
+                } catch (error) {
+                    console.warn('Failed to fetch from', url, ':', error.message);
+                    lastError = error;
+                    // Continue to next URL
                 }
-                
-            } catch (error) {
-                showInvalid(contentDiv, 'Verification system temporarily unavailable');
-                console.error('Error:', error);
             }
+            
+            // If we get here, all URLs failed
+            showError(contentDiv, lastError);
         }
         
         function showValid(container, cert) {
@@ -227,6 +277,36 @@
                     <code style="background: #f8f9fa; padding: 10px 20px; border-radius: 5px; font-size: 16px; color: #e74c3c;">
                         ${certId || 'None provided'}
                     </code>
+                </div>
+                
+                <div style="text-align: center; margin-top: 30px; padding: 20px; background: #fff3cd; border-radius: 8px; color: #856404;">
+                    <strong>Need help?</strong><br>
+                    Contact: genovate@amity.edu
+                </div>
+            `;
+        }
+        
+        function showError(container, error) {
+            container.innerHTML = `
+                <div class="status invalid">
+                    <div class="status-icon">⚠️</div>
+                    <h2>Verification Error</h2>
+                    <p>Unable to load certificate database.</p>
+                    <p style="margin-top: 10px; font-size: 14px; opacity: 0.8;">
+                        This might be due to network issues or missing data file.
+                    </p>
+                </div>
+                
+                <div class="error-box">
+                    <strong>Technical Details:</strong><br>
+                    ${error ? error.message : 'Unknown error'}<br><br>
+                    <strong>Troubleshooting:</strong>
+                    <ul style="margin-left: 20px; margin-top: 10px;">
+                        <li>Make sure certificates.json is uploaded to your GitHub repository</li>
+                        <li>Check that the file is in the same directory as verify.html</li>
+                        <li>Ensure your repository is public (for GitHub Pages)</li>
+                        <li>Wait 2-3 minutes after pushing changes for GitHub Pages to update</li>
+                    </ul>
                 </div>
                 
                 <div style="text-align: center; margin-top: 30px; padding: 20px; background: #fff3cd; border-radius: 8px; color: #856404;">
