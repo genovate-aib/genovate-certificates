@@ -8,14 +8,31 @@
       "category": "Faculty",
       "hash": "DE1936528E3950BA",
       "date": "March 17, 2026"
+    },
+    {
+      "id": "GSW2026-596889",
+      "name": "R R Arun",
+      "email": "arunrenga@gmail.com",
+      "institution": "Amity",
+      "category": "Student",
+      "hash": "AD52EEDA41EDBC73",
+      "date": "March 18, 2026"
     }
   ],
   "settings": {
     "adminPass": "admin123",
-    "verifyUrl": "https://genovate-aib.github.io/genovate-certificates/",
+    "verifyUrl": "https://genovate-aib.github.io/genovate-certificates/verify.html",
     "certPrefix": "GSW2026"
   },
   "activity": [
+    {
+      "action": "Downloaded PDF for R R Arun",
+      "time": "2026-03-18 00:24:11"
+    },
+    {
+      "action": "Generated certificate for R R Arun",
+      "time": "2026-03-18 00:23:02"
+    },
     {
       "action": "Downloaded PDF for Dr R R ArunRenganathan",
       "time": "2026-03-17 17:41:04"
