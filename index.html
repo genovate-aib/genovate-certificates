@@ -31,6 +31,20 @@
             transition: transform 0.3s;
         }
         .btn:hover { transform: translateY(-2px); }
+        .features {
+            margin-top: 40px;
+            display: flex;
+            justify-content: center;
+            gap: 30px;
+            flex-wrap: wrap;
+        }
+        .feature {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            border-radius: 10px;
+            min-width: 150px;
+        }
+        .feature-icon { font-size: 30px; margin-bottom: 10px; }
     </style>
 </head>
 <body>
@@ -39,6 +53,21 @@
         <h1>Genovate Certificate Verification</h1>
         <p>Secure verification system for workshop certificates issued by Genovate Biotechnology Club, Amity University.</p>
         <a href="verify.html" class="btn">Verify Certificate</a>
+        
+        <div class="features">
+            <div class="feature">
+                <div class="feature-icon">🔒</div>
+                <div>Secure</div>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">⚡</div>
+                <div>Instant</div>
+            </div>
+            <div class="feature">
+                <div class="feature-icon">✅</div>
+                <div>Authentic</div>
+            </div>
+        </div>
     </div>
 </body>
 </html>
