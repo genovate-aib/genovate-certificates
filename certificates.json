@@ -1,0 +1,1741 @@
+{
+  "certificates": [
+    {
+      "id": "GSW2026-321627",
+      "name": "Mohammed kareem al hammadi",
+      "email": "mohkareem92@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "23BA44314D4065F8",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-142308",
+      "name": "Ms DIXHA SINGH",
+      "email": "dixha.singh@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "697CDA99082A4362",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-581217",
+      "name": "Ms MOWMITA SAHA",
+      "email": "mowmita.saha23@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "BC963C93E3CC5509",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-741136",
+      "name": "Teli salaunidevi Komalprasad",
+      "email": "salonisaloni51528@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "7E7E18F5139A4FEE",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-295769",
+      "name": "Ms ISHANI PAUL",
+      "email": "ishaniofficial79@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CBF49074264BA6D1",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-244243",
+      "name": "Mr DUNGALA DURGA PRASAD",
+      "email": "durgaprasad21508@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9C2754EDEA5AC275",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-724585",
+      "name": "Shaik Sumayya Siddiqi",
+      "email": "sumayyasiddiqi333@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C2073DECFEA10E4F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-382850",
+      "name": "Ms DHRUVIKA VANIPENTA",
+      "email": "dhruvika4980@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "DED1CC9E48B83B04",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-324258",
+      "name": "Ms DHARIKA VANIPENTA",
+      "email": "dharika.v0503@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "0DBA2DB9613487E1",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-741599",
+      "name": "Monisha P",
+      "email": "Monishapmurthy@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "DF61D4963CA1E0D3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-167841",
+      "name": "Saba Afreen",
+      "email": "sabaafreen6095@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C732C0414BB346EE",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-763738",
+      "name": "VIDHI AGARWAL",
+      "email": "agrwalsanjay526@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "81D75361C77C63A8",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-781251",
+      "name": "Jahanvi D",
+      "email": "jahanvid1535@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CF5D21C95710D156",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-705337",
+      "name": "Mohith Ram C R",
+      "email": "mohithram06@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "E23B2F49ECCB292D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-905556",
+      "name": "Kori Saurabh Shivratan",
+      "email": "srbh2080@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1B07D03D42907F3C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-702641",
+      "name": "Rajput Shekhar Pappusinh",
+      "email": "Shekharrajput8140@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "0F0A336A0A0D5650",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-826879",
+      "name": "Deepthi B. V.",
+      "email": "deepthi1806@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "18528B30F8D2B4FD",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-668361",
+      "name": "SANMAYA K",
+      "email": "sanmayasanil2002@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "76E858154F825290",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-432369",
+      "name": "AHANA MITRA",
+      "email": "mitraahana4@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5D984621A8807426",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-733781",
+      "name": "ANKITA SEN",
+      "email": "unsolvedmysterysuspect123@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "2D9F7C9BE53DA1B6",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-679711",
+      "name": "Ms JNANASHREE P",
+      "email": "jnanashree.p@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CD54921F7F11D37F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-517919",
+      "name": "Ms THANUSHREE R",
+      "email": "thanushrr.r@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "93B6727C34461AC3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-425429",
+      "name": "Hariyali Tiwari",
+      "email": "nidhi.rathod031@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D6D5C2635C14701E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-826646",
+      "name": "Mauly joshi",
+      "email": "joshimauly27@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "2381401DE4E00339",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-340854",
+      "name": "Saumya kumari",
+      "email": "saumyapandey2022@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "BC844C754681BCAF",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-630354",
+      "name": "Vishva Panchal",
+      "email": "vishvapanchal@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "0F8E00151E4B3992",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-270420",
+      "name": "Bansari sanjivkumar patel",
+      "email": "bansari1806@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C0BE7F8CA99A7366",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-357019",
+      "name": "Kavya Ketankumar Patel",
+      "email": "kavyap.0407@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "974B59E2238AD63A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-171410",
+      "name": "Matta Saanjh Ashish",
+      "email": "saanjhmatta.bscmicro@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C83E0AB97E150B0E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-726537",
+      "name": "Preksha patel",
+      "email": "Guddipatel2606@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "6F39BF1B0E9843CE",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-469841",
+      "name": "Khatik jigar sohanlal",
+      "email": "khatikjigar2006@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1F7573B96201E0FB",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-862059",
+      "name": "Ms TADIKONDA MADHURI NAIDU",
+      "email": "tadikonda.naidu@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D604BE42B3731C38",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-425429",
+      "name": "Nidhi Rathod",
+      "email": "nidhi.rathod031@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "861E4F41D989F176",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-645342",
+      "name": "Ms SUSHMITHA M S",
+      "email": "sushmithams2005@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5293F883818A025A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-444037",
+      "name": "Ms GUNJAN",
+      "email": "gunjan36963@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "70E215FCCAB2CB7F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-315041",
+      "name": "AACHARYA ZEEL",
+      "email": "zeelacharya15@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "7473DDC2D499AC01",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-225352",
+      "name": "Patel manasvi Shaileshkumar",
+      "email": "manasvip.1236@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "3DE46098244C7163",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-262612",
+      "name": "Hetshree Kanojiya",
+      "email": "kanojiyahetshree@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "555276682FFDEE35",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-655569",
+      "name": "Ms AAVYA MEDHA",
+      "email": "aavyamedha158@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "46CCEF8FA0EC2D95",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-464588",
+      "name": "Mr NITIN KUMAR",
+      "email": "nitinsaw660@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "0ED5202610440B2A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-444708",
+      "name": "Mr DIGANTH R GOWDA",
+      "email": "diganth.gowda@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "FEE55D72B445A18B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-775426",
+      "name": "Soumyashree Das",
+      "email": "dassoumyashree4@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9E052C7397DEA1E3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-325409",
+      "name": "SRIVIDHYA S",
+      "email": "srividhyasoman18@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "55AFA80F339D0F2F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-310499",
+      "name": "Ms Richa Vaishnav",
+      "email": "richa.saimaa@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "2B76FD838474644A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-773183",
+      "name": "Olivia Das",
+      "email": "dasolivia228@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A95396B27852F779",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-874668",
+      "name": "Jyothish M S",
+      "email": "jyothishmadambi@gmail.com",
+      "institution": "Amity University",
+      "category": "Faculties",
+      "hash": "3D1AF9C25482AB22",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-378033",
+      "name": "Dr Sarmistha Ray",
+      "email": "sray2@kol.amity.edu",
+      "institution": "Amity University",
+      "category": "Faculties",
+      "hash": "5AF3A8D971685588",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-754173",
+      "name": "Ms ADITI DEVANATH",
+      "email": "aditi.devanath@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AC5C1EEBE09CBA4A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-119047",
+      "name": "Ms ANISHKA CHANDRA",
+      "email": "Anishka.chandra@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "8BD741FA3C0484DC",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-297819",
+      "name": "Ms YASHIKA BHARDWAJ",
+      "email": "yashika.bhardwaj5@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "809E98A8888D468A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-425392",
+      "name": "Ms SANNIDHI SANJEEV NAIK",
+      "email": "sannidhi.naik@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "18311520262C6A3D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-897373",
+      "name": "Mr RITHVIK S A",
+      "email": "rithviksa025@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5B1E5E6E8684FB7F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-269003",
+      "name": "Ms KHUSHI",
+      "email": "K7461461@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B96A06BA6448D4E1",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-643552",
+      "name": "Ms KOTWAL ROOHI AMBER",
+      "email": "Kowal.amber@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1563F8C945E32A94",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-695664",
+      "name": "Mr SAMEER KULKARNI",
+      "email": "sameer.kulkarni@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D6B44B9210B47679",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-918109",
+      "name": "Ms KARUMANCHI KEERTHI CHANDANA",
+      "email": "karumanchi.chandana@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "3C5AF32B12709FF0",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-152898",
+      "name": "Ms JAISHNAVI M",
+      "email": "jaishnavim4@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C3029981F49629E3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-157672",
+      "name": "Ms JAKATI VAISHNAVI",
+      "email": "jakati.vaishnavi@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1EBBCBE5CEF595CC",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-850369",
+      "name": "Ms ADITI KAMIN",
+      "email": "kaminaditi@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "8EA010CB18F11584",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-238178",
+      "name": "Mr HITESH RAO M",
+      "email": "hrao39070@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "41E8F6CC291CA21B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-564135",
+      "name": "Mr ADITTYA DUTTA",
+      "email": "adittya.dutta@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "FE5796293DC5FFE8",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-755216",
+      "name": "Ms RAKSHITA SHARON",
+      "email": "rakshitasharon3@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A95BEE1FC526749F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-366438",
+      "name": "Ms PRAGATI JHA",
+      "email": "pragati.jha1@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A5144BCB34C1DEE7",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-421964",
+      "name": "Mr NIKHIL BOLE",
+      "email": "nikhil.bole@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B58EE053711A5178",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-731326",
+      "name": "Nagariya Dhyey Manojbhai",
+      "email": "dhyeynagariya12044@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "2FB05CF2DC1B6A62",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-495615",
+      "name": "Mr YASH VRISCHIK",
+      "email": "yash.vrischik@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "12844043C812CEB1",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-229547",
+      "name": "Ms MUDIYAM AKSHAYA SHOBA",
+      "email": "mudiyam.shoba@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1661D74591C1CE56",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-223348",
+      "name": "Mr ULLAS K",
+      "email": "190707u@proton.me",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D4F202A8A5EE06C5",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-509719",
+      "name": "Ms VETSA KRISHNA NIKITHA",
+      "email": "vetsanikitha@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "051C716E94799CAC",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-191822",
+      "name": "Mr GANESH",
+      "email": "gp725930@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C51564A336971832",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-170099",
+      "name": "Ms LAHARI T",
+      "email": "lahari.t@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "60E90422D4FD6707",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-472902",
+      "name": "Mr MANDAAR S",
+      "email": "mandaar.s@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CBCB17B5F5B3A533",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-506147",
+      "name": "Ms NAVJEET KAUR",
+      "email": "navjeet.kaur3@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "205823E0E87FB663",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-815745",
+      "name": "Ms SANJANA.D",
+      "email": "sanjanadr97@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "95F0A7E1DB92770F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-607380",
+      "name": "Ms SHREYA N S",
+      "email": "shreya.s@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AB6932B7EB170B2C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-692831",
+      "name": "Ms J JYOTHIKA",
+      "email": "j.jyothika@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "43699C7BB97E1102",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-184711",
+      "name": "Mr LIKITH GOVARDHAN S",
+      "email": "likith2999@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "F83F11088368F0A6",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-429823",
+      "name": "Mr FARHAN S J",
+      "email": "farhansheik2007@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "732DA79E79F5695D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-144883",
+      "name": "Mr SHLOK SACHIN MANDLIK",
+      "email": "shlolik.atw@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "782CE09CE107739E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-899358",
+      "name": "Ms ADITI VINOD P",
+      "email": "aditi.p@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "ACF336FE5E9DC263",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-145672",
+      "name": "Ms CHILUKUTI TANMAYE",
+      "email": "tanumulkat@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "788E0CB8B7409741",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-254145",
+      "name": "Ms C ANUSHKA",
+      "email": "anushka.atc547@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A915145872AAD8F3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-380864",
+      "name": "Ms BHARGAVI P",
+      "email": "bhargavi.p@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "BE163007131B876D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-552251",
+      "name": "Ms RITIKA",
+      "email": "astureritika@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AC9DA8754E24925A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-105635",
+      "name": "Ms ANJANA R",
+      "email": "anjana.r2@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "BA850632D01B0DD3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-657550",
+      "name": "Ms NYSA JAISWAL",
+      "email": "nysa021489@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AD2DA284DDDC92B0",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-177288",
+      "name": "Ms POOJA DS",
+      "email": "pooja1294142@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "626BAF935305158E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-195039",
+      "name": "Mr NAYAN SUNDAR",
+      "email": "nayansundar11@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "E7F02DBA9EEB62FE",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-841456",
+      "name": "Ms GUJJA ANSHUKA",
+      "email": "gujja.anshuka@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B3C42295CC20060B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-433263",
+      "name": "Ms K M SAMANYUTHA",
+      "email": "k.Samanyutha@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9B36F723B13EA49A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-645236",
+      "name": "Ms SHRIDULA",
+      "email": "shridula@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D9253961552B0A48",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-828905",
+      "name": "Ms PRUTHVI T",
+      "email": "pruthvi.t@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "ACCDB7D31D861BB4",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-804990",
+      "name": "Ms MANYA S",
+      "email": "manya.sl@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B4017342C4F0FD41",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-377534",
+      "name": "Ms HIMA GOWRI.S",
+      "email": "hima.gowris@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "7E9171DA6F3B0B41",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-442992",
+      "name": "Ms RODHA SHERLYN D",
+      "email": "rodha.d@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "37E20C3205C14D4E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-200657",
+      "name": "Ms KASIREDDY RUCHITHA REDDY",
+      "email": "ruchithareddy1710@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "603C258F1219D2CE",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-293709",
+      "name": "Uddesya Vyas",
+      "email": "uddesyavyas@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C178A90307EA52CF",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-649692",
+      "name": "Keesara Tharani",
+      "email": "keesaratharani@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "FD389AADC988F4A5",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-839101",
+      "name": "Ms NAVYA M",
+      "email": "Navya.madhuu@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "43E96AEF27D17C89",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-359659",
+      "name": "Thangella Srivathsava Reddy",
+      "email": "srivathsavareddythangella@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "89C22DF54437C839",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-595120",
+      "name": "Ms DEEPTHI M S",
+      "email": "msdeepthi110@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "3C13EE290D17461E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-226167",
+      "name": "Dr Dola Mukherjee",
+      "email": "dmukherjee5@kol.amity.edu",
+      "institution": "Amity University",
+      "category": "Faculties",
+      "hash": "8763ABD7E850B1F7",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-676690",
+      "name": "Mr ADITYA TIWARI",
+      "email": "adityatripathi8987@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "69398D3F762AA46D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-622707",
+      "name": "Swastika Bhattacharya",
+      "email": "bhattacharyaswastika89@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "31538650C6D57CF0",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-852083",
+      "name": "Manasvi Trivedi",
+      "email": "manasvitrivedi18@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "FE6033ED355A62BF",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-691246",
+      "name": "SHAIKH MOHAMMAD ALFAIZ MOHAMMAD ARIF",
+      "email": "alfaizshaikh750@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "4DC6EFC6E7B1023A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-628240",
+      "name": "Ms RIDA FATHIMA",
+      "email": "rida.fathima@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1E3230D732E13D6A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-271714",
+      "name": "Pornika Pal",
+      "email": "pornikapal2022@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "675FFE58190220BD",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-537189",
+      "name": "Ms KAVURI SREE KRISHNA KOVIDA",
+      "email": "Kovida.kavuri1303@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "71FD2DFB00056C58",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-596852",
+      "name": "Mall Preeti Amallkumar",
+      "email": "preetimallbscmicro@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AD4192FD557871A5",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-618329",
+      "name": "Yadav Sweta Narayan",
+      "email": "yadavsweta6333@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5870A9B5EBDB050E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-155057",
+      "name": "MALL PREETI AMALLKUMAR",
+      "email": "preetimall132@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "F9B232983B7878EF",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-314913",
+      "name": "Ms CHAITHANYA C M",
+      "email": "chaithu0801@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "FE8B7D7E277AC493",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-115137",
+      "name": "Juhi Maulik Parikh",
+      "email": "juhiparikh03@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "59D9A12CBE5FF940",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-484515",
+      "name": "Rathod Gopi Kalpeshbhai",
+      "email": "rathodgopi1023@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "E9B38F56BD3AC662",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-455652",
+      "name": "Ayusmita Dey",
+      "email": "ayusmita1406@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B703942B8FFBDAE6",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-672583",
+      "name": "Mehvish Naaz",
+      "email": "mnaaz782@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "DA4AA5F833D9192E",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-631893",
+      "name": "Bhumi Tiwari",
+      "email": "bhumitiwari826@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "574EBC0E9F29631C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-256309",
+      "name": "Keshika",
+      "email": "keshikadurai12@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "20A67DBC56AF45EE",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-638232",
+      "name": "Anirudh RND",
+      "email": "anirudhrnd@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "932F9BEA6C7FF191",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-143997",
+      "name": "Pujan patel",
+      "email": "pujanptl9259@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "8A7978FEEAEFB647",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-737829",
+      "name": "BHAGORA BHARGAVIBEN DAHYABHAI",
+      "email": "bhagorabhargavi5@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "74D8AE765E14FA7C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-321937",
+      "name": "Ayusmita Dey",
+      "email": "ayusmita1506@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9E2C07FB4EA14019",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-388326",
+      "name": "Ms SAKSHI AURADKAR",
+      "email": "Sakshi.auradkar@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AF7EDA3484FD4E4F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-320416",
+      "name": "Ms AMRUTHA T B",
+      "email": "ammuamrutaap@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "EB0AF09AADDB8C38",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-484255",
+      "name": "Ms SANCHITA SINGH",
+      "email": "sanchitasingh168@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "32E4038D1ABAD3EA",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-329450",
+      "name": "Mr NARAYANAN NAMPOOTHIRI K P",
+      "email": "prakashkarakkad99@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "33C58594C7870872",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-856702",
+      "name": "Ms ZAKIYA FATHIMA",
+      "email": "fathimazakiya717@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "20C831F3595868EC",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-770559",
+      "name": "Ms ACHINTYA KAPPARA",
+      "email": "ach1ntyak28@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A73E8929FB71989C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-465718",
+      "name": "Ms ASI MOUNIKA",
+      "email": "asimounika99@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "93605A9A031D259A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-192176",
+      "name": "Ms KSHITHIJA KIRAN",
+      "email": "kshithi6002@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9EBD5CC322FBB36D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-918435",
+      "name": "Mr SHREESHA K S",
+      "email": "shreeshaks97@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "2EEFE83E13A7AAE8",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-610079",
+      "name": "Aarsh Naik",
+      "email": "aarshnaik2212@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "11D3A47E24AFBC59",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-532923",
+      "name": "Katheriya Disha p",
+      "email": "disha.katheriya@icloud.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B527C374C06149C8",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-131641",
+      "name": "Dr. Drashti Rao",
+      "email": "drashtirao4728@gmail.com",
+      "institution": "Amity University",
+      "category": "Faculties",
+      "hash": "3919CE78EDF0605C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-829464",
+      "name": "sura anvitha",
+      "email": "anvitha476@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C0608F72CE8F6D36",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-393119",
+      "name": "Darshan Mavani",
+      "email": "darshanmavani26@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "E2C7120D9B368260",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-781814",
+      "name": "HARESH JOBANPUTRA",
+      "email": "hareshjobanputra44@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "16B213CE154D6249",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-376830",
+      "name": "Mr CHARAN SAI A V",
+      "email": "charan1003sai@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D0D1AA015197C6C4",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-102328",
+      "name": "Dr Supriyo Basak",
+      "email": "sbasak@rnc.amity.edu",
+      "institution": "Amity University",
+      "category": "Faculties",
+      "hash": "B47A100713CDAB1C",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-224433",
+      "name": "Ms SUMAIYA SADAF",
+      "email": "sumaiya.sadaf@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A1DAA6E5DBDDAFA2",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-259150",
+      "name": "Astha Parikh",
+      "email": "parikhastha9@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "3C1BEF3859FC24EB",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-349355",
+      "name": "Ms ARIJITA CHOUDHURY",
+      "email": "arijitachoudhury@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5725148EAC91FAB6",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-412618",
+      "name": "Ms ANANYA KUMARI",
+      "email": "ananyasharma91427@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "4F2B818EE7CC3DDF",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-520149",
+      "name": "Ms ANANYA DHRITI",
+      "email": "adhriti319@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "93BB3C421FC48A07",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-314804",
+      "name": "Chintan Chauhan",
+      "email": "cchintan396@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5C865CCF2B2D7E1B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-908454",
+      "name": "Ms DRSHIKA SUBRAMANI",
+      "email": "drshika30@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CD339C6F05322CB7",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-192015",
+      "name": "Ms KHUSHI SHARMA",
+      "email": "khushi.sharma65@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "86CA61332020427D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-570816",
+      "name": "Ms NIKITA UTPAL LOTLIKAR",
+      "email": "Nikita.lotlikar@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A7FB31169AE2AD60",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-626200",
+      "name": "Digvijay Singh Yadav",
+      "email": "digvijaysingh.yadav@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5F2CAD5EE1BC3741",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-820535",
+      "name": "Ms SAFEENA",
+      "email": "safeena.1506@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CF372CAA0FA24731",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-598025",
+      "name": "Mr USAMA ABDUL QADIR",
+      "email": "uabdulqadir57@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "91ED5B514B777596",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-251915",
+      "name": "Bhavik Kantilal Bhagiya",
+      "email": "bhavikbhagiya13@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "6CCE7B35EEF46CBC",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-548797",
+      "name": "Vimalnath",
+      "email": "vimalvimal91019@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "EE611266DBC43DA8",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-781650",
+      "name": "Yaminikrishna",
+      "email": "vasagiriyaminikrishna@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9898DEF0F142AD03",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-394545",
+      "name": "Mr A ABHISHEK",
+      "email": "abhiabhi23k@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B967D867F97CD102",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-828214",
+      "name": "M.Nandini",
+      "email": "mallanandini60@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "97E9C12E40CB465F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-211570",
+      "name": "Namrata M Kurdekar",
+      "email": "namrata.mirmblr2024@learner.manipal.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "2ABD34AF17F8FB7A",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-865561",
+      "name": "Gummana veda sri",
+      "email": "Gummanvedasri@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "8D38E887AB937F8D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-875679",
+      "name": "M Harika",
+      "email": "harikamaloth978@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B0D8FA966C438FF3",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-106321",
+      "name": "D.Mahammad Naveed",
+      "email": "naveeddadipeta12@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D73B98E302960307",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-455526",
+      "name": "KRUPASINI MIRIYALA",
+      "email": "krupasini18@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "317E8A8E9CA81376",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-686871",
+      "name": "Mr KOKKUNOOR CHARAN",
+      "email": "kokkunorcharan@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "1285EC4A0A6C8744",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-626360",
+      "name": "Mahathi Akuthota",
+      "email": "mahathiakuthota47@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "B45740E7EB1271E6",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-289695",
+      "name": "Mudigolam Sesritha Reddy",
+      "email": "sesrithareddy050822@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "EDAA167B6705C5DD",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-739720",
+      "name": "Patakamudi sruthi",
+      "email": "psruthichowdary47@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "CCDE0C1E3C47D045",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-858227",
+      "name": "Anumula Anushka Reddy",
+      "email": "anumulaanushkareddy@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "C6A5B95D6C8DBCC4",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-514523",
+      "name": "Ms TRISHNARANI PATEL",
+      "email": "trishnarani.patel@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "619D955535029B5B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-510524",
+      "name": "Ms S LEENA FATHIMA",
+      "email": "leenaf214@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "DE4CCE27B753E168",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-212089",
+      "name": "Ms NAKSHATRA C R",
+      "email": "nakshatra.r@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "732928D208282A1D",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-232308",
+      "name": "Ms NENA NAFEESA K",
+      "email": "nenanafeesa@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "62B756CD04416077",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-413753",
+      "name": "Ms NANNURI SRI ABHINAYA",
+      "email": "abhinayanannurii@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "29009B1E7A45535B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-961043",
+      "name": "Ms RASHI PRIYA",
+      "email": "priyarashi4@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A2AF5B8600CDC72B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-604758",
+      "name": "Mr MUTHU RAMAN RAMESH S",
+      "email": "rameshkohli643@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "427BDB730F8718A5",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-370163",
+      "name": "Ms HIMA V",
+      "email": "himaavijithh@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "495016C2609A9455",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-870151",
+      "name": "Ms BOOMIKA H",
+      "email": "boomie1103@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "082A937AB68208C2",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-869058",
+      "name": "Mr THEJAS D",
+      "email": "thejas.d@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AE10604906F160BD",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-390226",
+      "name": "Mr NANDISH S",
+      "email": "nandish.s@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "BDCAC23163886544",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-198583",
+      "name": "Ms DHRITI SOMANI",
+      "email": "dhriti.somani@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5294D2F1C8B5BD40",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-306323",
+      "name": "Mr TUSHAR SHETTY",
+      "email": "thusharvshetty@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "92AA88BA8837FDE5",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-339831",
+      "name": "Ms DEVIKA BINU",
+      "email": "devika.binu@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "A7CF3490EC063F68",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-619763",
+      "name": "Mr BHUVAN RAJESH M",
+      "email": "bhuvanrajesh2005@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "EFFE2D6930739010",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-797887",
+      "name": "Mr MUHAMMED RAMEEZ S",
+      "email": "muhammedrameez1111@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "86972751FA8982C9",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-376053",
+      "name": "Ms RINYA PJ",
+      "email": "rinya.pj.s@amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "DC7422AFD014673F",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-199259",
+      "name": "Ms AGRATHA K",
+      "email": "agrathak7@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "9E1DDF8C4B949D79",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-909010",
+      "name": "Ms S SHREE SWATHI THANUSHREE",
+      "email": "swathi05tanushree@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "8A1FF7DE22AE43B4",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-729073",
+      "name": "Ms SPOORTHI R",
+      "email": "spoorthi.r@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "47BD79EF883FF90B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-603675",
+      "name": "Ms TANYA JHA",
+      "email": "tanyakaushaljha@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "46DACF5B163A98DA",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-211796",
+      "name": "Ms NITHYASHREE N BANNUR",
+      "email": "nithyashreeb18@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "29DC176C658AC0D7",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-501686",
+      "name": "Ms SANJANA H KOTA",
+      "email": "sanju.hkota@gmail.com",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "703B7AAC889B568B",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-471021",
+      "name": "Mr MOHAMMED ADNAN",
+      "email": "mohammed.adnan@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "7EF27C3CF1BC75D9",
+      "date": "March 18, 2026"
+    },
+    {
+      "id": "GSW2026-572983",
+      "name": "nan",
+      "email": "nan",
+      "institution": "Amity University",
+      "category": "nan",
+      "hash": "856FD5E013F9F03E",
+      "date": "March 18, 2026"
+    }
+  ],
+  "settings": {
+    "adminPass": "admin123"
+  },
+  "activity": [
+    {
+      "action": "Bulk generated 192 PDF certificates",
+      "time": "2026-03-18 01:52:53"
+    }
+  ]
+}
