@@ -1,16 +1,28 @@
-[
-  {
-    "id": "GEN2026-001",
-    "name": "John Doe",
-    "event": "International Invited Talk",
-    "organization": "GENOVATE – Amity University Bengaluru",
-    "date": "28 July 2026"
+{
+  "certificates": [
+    {
+      "id": "GSW2026-306001",
+      "name": "Dr R R ArunRenganathan",
+      "email": "rrarunrenganathan@live.com",
+      "institution": "Amity Institute of Biotechnology",
+      "category": "Faculty",
+      "hash": "DE1936528E3950BA",
+      "date": "March 17, 2026"
+    }
+  ],
+  "settings": {
+    "adminPass": "admin123",
+    "verifyUrl": "https://genovate-aib.github.io/genovate-certificates/",
+    "certPrefix": "GSW2026"
   },
-  {
-    "id": "GEN2026-002",
-    "name": "Priya Sharma",
-    "event": "International Invited Talk",
-    "organization": "GENOVATE – Amity University Bengaluru",
-    "date": "28 July 2026"
-  }
-]
+  "activity": [
+    {
+      "action": "Downloaded PDF for Dr R R ArunRenganathan",
+      "time": "2026-03-17 17:41:04"
+    },
+    {
+      "action": "Generated certificate for Dr R R ArunRenganathan",
+      "time": "2026-03-17 17:40:04"
+    }
+  ]
+}
