@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Certificate Verification</title>
+</head>
+
+<body>
+
+<h2>Certificate Verification Portal</h2>
+
+<input type="text" id="certID" placeholder="Enter Certificate ID">
+
+<button onclick="verify()">Verify</button>
+
+<p id="result"></p>
+
+<script>
+
+function verify(){
+  let id = document.getElementById("certID").value;
+
+  if(id=="GEN001"){
+    document.getElementById("result").innerHTML="Valid Certificate";
+  }else{
+    document.getElementById("result").innerHTML="Invalid Certificate";
+  }
+
+}
+
+</script>
+
+</body>
+</html>

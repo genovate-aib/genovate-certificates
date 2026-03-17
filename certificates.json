@@ -1,0 +1,16 @@
+[
+  {
+    "id": "GEN2026-001",
+    "name": "John Doe",
+    "event": "International Invited Talk",
+    "organization": "GENOVATE – Amity University Bengaluru",
+    "date": "28 July 2026"
+  },
+  {
+    "id": "GEN2026-002",
+    "name": "Priya Sharma",
+    "event": "International Invited Talk",
+    "organization": "GENOVATE – Amity University Bengaluru",
+    "date": "28 July 2026"
+  }
+]
