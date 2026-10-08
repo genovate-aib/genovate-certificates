@@ -1810,21 +1810,138 @@
       "date": "February 28, 2026"
     },
     {
-      "id": "GSW2026-207512",
-      "name": "nan",
-      "email": "nan",
-      "institution": "Amity University",
-      "category": "nan",
-      "hash": "2777F01C323C03EE",
-      "date": "February 28, 2026"
-    },
-    {
       "id": "GIL2026-423346",
       "name": "Mrs. Aswathy Vijayakumar",
       "email": "aswathyvijayakumar27@yahoo.com",
       "institution": "Mohammed Bin Rashid University, Dubai Health",
       "category": "Invited Speaker",
       "hash": "0B24A28904D714A5",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-674702",
+      "name": "BOOMIKA H",
+      "email": "boomika.h@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "63EAC782054CA2CF",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-630198",
+      "name": "HIMA V",
+      "email": "hima.v@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "4FE31AC1C9794C7F",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-203236",
+      "name": "NANNURI SRI ABHINAYA",
+      "email": "nannuri.abhinaya@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "4FA77E053115346C",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-632305",
+      "name": "KOKKUNOOR CHARAN",
+      "email": "kokkunoor.charan@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "D9E905FB75508AE7",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-715985",
+      "name": "Rashi Priya",
+      "email": "rashi.priya@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "5C3617CDB547C39B",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-742051",
+      "name": "Muthu Raman Ramesh S",
+      "email": "muthu.s@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "3D3256BD51B3720E",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-419960",
+      "name": "Ms THANUSHREE R",
+      "email": "thanushree.r@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "7A02BDAFF2ABFD10",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-109289",
+      "name": "Ms SANNIDHI SANJEEV NAIK",
+      "email": "sannidhi.naik@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "042B59544A31B88A",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-109289",
+      "name": "Rekha R",
+      "email": "sannidhi.naik@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "F3FC131B5076DF1C",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-510995",
+      "name": "Usama Abdul Qadir",
+      "email": "usama.qadir@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "517C43957A5FA029",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-611017",
+      "name": "Shreesha K S",
+      "email": "shreesha.s@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "E3962BC06110AF05",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-399752",
+      "name": "Srikeerthi Kotamaraju",
+      "email": "srikeerthi.kotamaraju@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "3E50C1AA5B990E55",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-630963",
+      "name": "Mandaar Sandeep",
+      "email": "mandaar.s@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "AB505D5BD7F883A2",
+      "date": "October 08, 2026"
+    },
+    {
+      "id": "GIL2026-913902",
+      "name": "Chris Tony",
+      "email": "chris.tony@s.amity.edu",
+      "institution": "Amity University",
+      "category": "Student",
+      "hash": "DE40A93C9BD1592A",
       "date": "October 08, 2026"
     }
   ],
@@ -1840,9 +1957,13 @@
       "action": "Bulk generated 192 PDF certificates",
       "time": "2026-02-28 07:05:25"
     },
-        {
+    {
       "action": "Generated certificate for Mrs. Aswathy Vijayakumar",
       "time": "2026-10-08 15:03:12"
+    },
+    {
+      "action": "Bulk generated 15 PDF certificates",
+      "time": "2026-10-08 16:33:55"
     }
   ]
 }
