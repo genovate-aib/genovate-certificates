@@ -1817,6 +1817,15 @@
       "category": "nan",
       "hash": "2777F01C323C03EE",
       "date": "February 28, 2026"
+    },
+    {
+      "id": "GIL2026-423346",
+      "name": "Mrs. Aswathy Vijayakumar",
+      "email": "",
+      "institution": "Mohammed Bin Rashid University, Dubai Health",
+      "category": "Faculty",
+      "hash": "0B24A28904D714A5",
+      "date": "October 08, 2026"
     }
   ],
   "settings": {
@@ -1830,6 +1839,10 @@
     {
       "action": "Bulk generated 192 PDF certificates",
       "time": "2026-02-28 07:05:25"
+    },
+        {
+      "action": "Generated certificate for Mrs. Aswathy Vijayakumar",
+      "time": "2026-10-08 15:03:12"
     }
   ]
 }
